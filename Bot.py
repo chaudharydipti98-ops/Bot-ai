@@ -2,8 +2,8 @@ import requests, pandas as pd, pandas_ta as ta, time, math, os
 from datetime import datetime
 
 # ====== CONFIG ======
-BOT_TOKEN = "your_telegram_bot_token"   # e.g. 1234567890:ABCdefGhijKlmnOpQRsTuVwxYZ
-CHAT_ID = "your_chat_id"                # e.g. 123456789
+BOT_TOKEN = 7955821961:AAHPVSeeSKkOOj3K6E01dYfLK7sF9Nf5DSU # e.g. 1234567890:ABCdefGhijKlmnOpQRsTuVwxYZ
+CHAT_ID =  6851021232               # e.g. 123456789
 SYMBOLS = ["DOGEUSDT", "SHIBUSDT", "PEPEUSDT", "BONKUSDT", "FLOKIUSDT",
            "WIFUSDT", "BABYDOGEUSDT", "MEMEUSDT", "TURBOUSDT", "BRETTUSDT"]
 INTERVAL = "5m"  # timeframe
