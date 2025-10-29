@@ -1,2 +1,4 @@
-# Bot-ai
-Personal bot
+
+requests
+pandas
+pandas_ta
